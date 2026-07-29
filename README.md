@@ -1,6 +1,6 @@
 # Password Manager
 A command-line password manager built in Python that securely stores account 
-credentials by website and username. This project was create to practice working 
+credentials by website and username. This project was created to practice working 
 with JSON files, program organization, user authentication, and modular Python design.
 
 ## Features
