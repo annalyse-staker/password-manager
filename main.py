@@ -157,7 +157,6 @@ def main(masterPassword):
                 addPassword(passwords, website, username, password)
                 savePasswords(passwords)
 
-
         elif selection == "3":
             website = input("Enter the website you wish to access: ")
             if website in passwords:
@@ -174,7 +173,6 @@ def main(masterPassword):
             else:
                 print("No accounts found for this website.")
 
-
         elif selection == "5":
             website = input("Enter the website you wish to access: ")
             if website in passwords.keys():
@@ -183,11 +181,9 @@ def main(masterPassword):
             else:
                 print("No accounts found for this website.")
 
-
         elif selection == "6":
             username = input("Enter your username: ")
             allAccounts(passwords, username)
-
 
         elif selection == "7":
             newPassword = input("Enter your new password: ")
@@ -197,8 +193,7 @@ def main(masterPassword):
             masterPassword = newPassword
             print("Password has been updated successfully.")
             print(f"Your new password is: {masterPassword}")
-
-
+            
         selection = menu()
     print("Thank you for using Password Manager!")
 
