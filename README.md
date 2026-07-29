@@ -29,7 +29,9 @@ with JSON files, program organization, user authentication, and modular Python d
   This password is required each time the program is opened
 ## Screenshots
 
+<img width="1047" height="535" alt="image" src="https://github.com/user-attachments/assets/bcc8fe38-da2e-4f68-8911-8641c0b4479d" />
 
+<img width="1047" height="583" alt="image" src="https://github.com/user-attachments/assets/ee02107f-c79e-4184-9287-d6338498a8e5" />
 
 ## What I Learned
 Building this project helped strengthen my understanding of:
