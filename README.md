@@ -13,11 +13,12 @@ with JSON files, program organization, user authentication, and modular Python d
 - Automatically removes empty websites when the last account is deleted
 
 ## Technologies Used
-- Python
+- Python 3
+- Python Standard Library:
+  * json
+  * secrets
+  * string
 - JSON
-- json
-- secrets
-- string
 
 ## Installation / How to Run
 1) Clone the repository
